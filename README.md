@@ -28,3 +28,6 @@
  
 
  <a href="https://chrome.google.com/webstore/detail/wot-web-of-trust-website/bhmmomiinigofkjcapegjjndpbikblnp"> Web of Trust</a> : Bu eklenti sayesinde Google Chrome tarayıcısında arama yaptıktan sonra karşınıza çıkan sitelerin kullanıcı oylamalarına göre güvenilir olup olmadığını görebiliyorsunuz ve bu sayede kötü amaçlı yazılımlardan olabildiğince güvende oluyorsunuz.
+ 
+ <a href =" https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm">  WhatFont </a> : Bu eklenti sayesinde internette karşılaştığınız bir yazının fontunu direkt olarak görebiliyorsunuz.
+   
